@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# 🫀 From Clinical Data to Cardiac Risk Prediction
 
 > Predicting cardiovascular disease severity using clinical data: a complete data science pipeline for model training and evaluation.
 
